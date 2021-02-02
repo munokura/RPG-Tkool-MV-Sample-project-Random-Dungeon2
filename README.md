@@ -1,7 +1,8 @@
 当プロジェクトはRPGツクールMVのものです。
 
-制作ツール ©2015 KADOKAWA CORPORATION./YOJI OJIMA
-ゲームデータの抽出、改変、二次利用(有償・無償問わず)は禁止されています。
+制作ツール
+RPGツクールMV
+©Gotcha Gotcha Games Inc./YOJI OJIMA 2015
 https://tkool.jp/mv/
 
 
